@@ -1,0 +1,22 @@
+{
+  "name": "dragonball",
+  "version": "1.0.0",
+  "description": "single page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harvepq/dragonball.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "harvey pfoccori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harvepq/dragonball/issues"
+  },
+  "homepage": "https://github.com/harvepq/dragonball#readme"
+}
